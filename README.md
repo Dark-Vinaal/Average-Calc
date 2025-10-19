@@ -1,5 +1,3 @@
----
-
 # Average Calculator - Project
 
 A responsive, web-based average calculator featuring light and dark themes, built with HTML, CSS, and JavaScript.
